@@ -250,7 +250,7 @@ tools:
     tool_panel_section_label: 'Mapping'
 
   - name: 'muscle'
-    owner: 'iuc'
+    owner: 'crs4'
     tool_panel_section_label: 'Multiple Alignments'
 
   - name: 'clustalw'
