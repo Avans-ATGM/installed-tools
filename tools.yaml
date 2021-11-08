@@ -333,3 +333,10 @@ tools:
      owner: 'iuc'
      tool_panel_section_label: 'Text Manipulation'
 
+   - name: 'qiime2_suite'
+     owner: 'florianbegusch'
+     tool_panel_section_label: 'Metagenomic Analysis'
+     
+   - name: 'qiime2_suite'
+     owner: 'florianbegusch'
+     tool_panel_section_label: 'Metagenomic Analysis'
