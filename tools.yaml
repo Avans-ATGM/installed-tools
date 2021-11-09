@@ -324,10 +324,6 @@ tools:
   - name: 'fastqtofasta'
     owner: 'devteam'
     tool_panel_section_label: 'FASTA/FASTQ'
-    
-   - name: 'fastqe'
-     owner: 'iuc'
-     tool_panel_section_label: 'FASTA/FASTQ'
      
    - name: 'table_compute'
      owner: 'iuc'
