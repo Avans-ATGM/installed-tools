@@ -384,3 +384,7 @@ tools:
   - name: 'seq_filter_by_id'
     owner: 'peterjc'
     tool_panel_section_label: 'Filter and Sort'
+    
+  - name: 'filter_tabular'
+    owner: 'iuc'
+    tool_panel_section_label: 'Text Manipulation'
