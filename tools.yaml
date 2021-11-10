@@ -388,3 +388,7 @@ tools:
   - name: 'filter_tabular'
     owner: 'iuc'
     tool_panel_section_label: 'Text Manipulation'
+
+  - name: 'qiime2_suite'
+    owner: 'florianbegusch'
+    tool_panel_section_label: 'Metagenomic Analysis'
