@@ -301,7 +301,7 @@ tools:
     owner: 'lparsons'
     tool_panel_section_label: 'RNA Analysis'
     
-  - name: 'deseq2'
+  - name: 'DESeq2'
     owner: 'iuc'
     tool_panel_section_label: 'RNA Analysis'
     
