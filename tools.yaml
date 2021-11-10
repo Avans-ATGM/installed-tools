@@ -352,4 +352,35 @@ tools:
   - name: 'velvet'
     owner: 'devteam'
     tool_panel_section_label: 'Assembly'
+
+  - name: 'collapse_collections'
+    owner: 'nml'
+    tool_panel_section_label: 'Join, Subtract and Group'
     
+  - name: 'ngsutils_bam_filter'
+    owner: 'iuc'
+    tool_panel_section_label: 'SAM/BAM'
+    
+  - name: 'bioext_bam2msa'
+    owner: 'iuc'
+    tool_panel_section_label: 'SAM/BAM'
+    
+  - name: 'samtools_depth'
+    owner: 'iuc'
+    tool_panel_section_label: 'SAM/BAM'
+    
+  - name: 'ncbi_acc_download'
+    owner: 'iuc'
+    tool_panel_section_label: 'Get Data'
+    
+  - name: 'ggplot2_point'
+    owner: 'iuc'
+    tool_panel_section_label: 'Graph/Display Data'
+
+  - name: 'ivar_consensus'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'seq_filter_by_id'
+    owner: 'peterjc'
+    tool_panel_section_label: 'Filter and Sort'
