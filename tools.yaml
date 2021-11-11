@@ -392,3 +392,7 @@ tools:
   - name: 'qiime2_suite'
     owner: 'florianbegusch'
     tool_panel_section_label: 'Metagenomic Analysis'
+
+  - name: 'funannotate_predict'
+    owner: 'iuc'
+    tool_panel_section_label: 'Annotation'
