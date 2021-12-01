@@ -416,4 +416,7 @@ tools:
   - name: 'data_manager_funannotate'
     owner: 'iuc'
     tool_panel_section_label: 'Annotation'
-   
+    
+  - name: 'datamash_reverse'
+    owner: 'iuc'
+    tool_panel_section_label: 'Statistics'
