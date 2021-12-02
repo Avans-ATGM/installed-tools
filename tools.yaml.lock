@@ -278,7 +278,7 @@ tools:
   - 2595c27071c2
   tool_panel_section_label: Mapping
 - name: muscle
-  owner: iuc
+  owner: crs4
   revisions: []
   tool_panel_section_label: Multiple Alignments
 - name: clustalw
