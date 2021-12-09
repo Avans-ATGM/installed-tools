@@ -219,14 +219,6 @@ tools:
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
 
-  - name: 'suite_medaka'
-    owner: 'iuc'
-    tool_panel_section_label: 'Nanopore'
-
-  - name: 'suite_nanopolish'
-    owner: 'bgruening'
-    tool_panel_section_label: 'Nanopore'
-
   - name: 'hmmer_hmmscan'
     owner: 'iuc'
     tool_panel_section_label: 'Annotation'
@@ -327,10 +319,6 @@ tools:
     owner: 'iuc'
     tool_panel_section_label: 'Text Manipulation'
 
-  - name: 'qiime2_suite'
-    owner: 'florianbegusch'
-    tool_panel_section_label: 'Metagenomic Analysis'
-
   - name: 'deg_annotate'
     owner: 'iuc'
     tool_panel_section_label: 'RNA Analysis'
@@ -387,9 +375,6 @@ tools:
     owner: 'iuc'
     tool_panel_section_label: 'Text Manipulation'
 
-  - name: 'qiime2_suite'
-    owner: 'florianbegusch'
-    tool_panel_section_label: 'Metagenomic Analysis'
   #fun annotate tools
   - name: 'funannotate_annotate'
     owner: 'iuc'

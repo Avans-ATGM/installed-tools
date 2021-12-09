@@ -59,7 +59,8 @@ tools:
   tool_panel_section_label: Graph/Display Data
 - name: flye
   owner: bgruening
-  revisions: []
+  revisions:
+  - 276f5d8712d5
   tool_panel_section_label: Assembly
 - name: staramr
   owner: nml
@@ -101,7 +102,8 @@ tools:
   tool_panel_section_label: Graph/Display Data
 - name: chewbbaca
   owner: iss
-  revisions: []
+  revisions:
+  - 872ed5ee7b98
   tool_panel_section_label: Variant Calling
 - name: shovill
   owner: iuc
@@ -115,11 +117,13 @@ tools:
   tool_panel_section_label: Assembly
 - name: prokka
   owner: crs4
-  revisions: []
+  revisions:
+  - 8a22554cdde2
   tool_panel_section_label: Annotation
 - name: bowtie2
   owner: devteam
-  revisions: []
+  revisions:
+  - a6d65b0c67af
   tool_panel_section_label: Mapping
 - name: jbrowse
   owner: iuc
@@ -143,7 +147,8 @@ tools:
   tool_panel_section_label: Assembly
 - name: fastq_quality_filter
   owner: devteam
-  revisions: []
+  revisions:
+  - ce9cd02d5b88
   tool_panel_section_label: FASTA/FASTQ
 - name: kraken2
   owner: iuc
@@ -152,7 +157,8 @@ tools:
   tool_panel_section_label: NCBI Blast
 - name: kraken2tax
   owner: devteam
-  revisions: []
+  revisions:
+  - f03c7ba8d8bc
   tool_panel_section_label: NCBI Blast
 - name: taxonomy_krona_chart
   owner: crs4
@@ -181,7 +187,8 @@ tools:
   tool_panel_section_label: Nanopore
 - name: racon
   owner: bgruening
-  revisions: []
+  revisions:
+  - 7c847ec300b8
   tool_panel_section_label: Assembly
 - name: gfa_to_fa
   owner: iuc
@@ -190,7 +197,8 @@ tools:
   tool_panel_section_label: Convert Formats
 - name: canu
   owner: bgruening
-  revisions: []
+  revisions:
+  - 86f150c8019d
   tool_panel_section_label: Assembly
 - name: snpeff
   owner: iuc
@@ -199,7 +207,8 @@ tools:
   tool_panel_section_label: Variant Calling
 - name: ngsaligners
   owner: subazini
-  revisions: []
+  revisions:
+  - a6848bc30dfb
   tool_panel_section_label: Mapping
 - name: busco
   owner: iuc
@@ -208,11 +217,13 @@ tools:
   tool_panel_section_label: Annotation
 - name: augustus
   owner: bgruening
-  revisions: []
+  revisions:
+  - 28433faa6e42
   tool_panel_section_label: Annotation
 - name: cutadapt
   owner: lparsons
-  revisions: []
+  revisions:
+  - c053d4cad713
   tool_panel_section_label: FASTA/FASTQ
 - name: fastp
   owner: iuc
@@ -226,23 +237,28 @@ tools:
   tool_panel_section_label: Assembly
 - name: trycycler_cluster
   owner: iuc
-  revisions: []
+  revisions:
+  - ced385aa976d
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
   owner: iuc
-  revisions: []
+  revisions:
+  - d40ed4eb0c0e
   tool_panel_section_label: Assembly
 - name: trycycler_partition
   owner: iuc
-  revisions: []
+  revisions:
+  - 6dd935e4984b
   tool_panel_section_label: Assembly
 - name: trycycler_reconcile_msa
   owner: iuc
-  revisions: []
+  revisions:
+  - b5e35a2ca4f3
   tool_panel_section_label: Assembly
 - name: trycycler_subsample
   owner: iuc
-  revisions: []
+  revisions:
+  - 6015aa0303f2
   tool_panel_section_label: Assembly
 - name: orthofinder_onlygroups
   owner: iuc
@@ -264,15 +280,6 @@ tools:
   revisions:
   - 3edba9afc9bc
   tool_panel_section_label: Assembly
-- name: suite_medaka
-  owner: iuc
-  revisions:
-  - e1eccf401a38
-  tool_panel_section_label: Nanopore
-- name: suite_nanopolish
-  owner: bgruening
-  revisions: []
-  tool_panel_section_label: Nanopore
 - name: hmmer_hmmscan
   owner: iuc
   revisions:
@@ -285,7 +292,8 @@ tools:
   tool_panel_section_label: Phylogenetics
 - name: mrbayes
   owner: nml
-  revisions: []
+  revisions:
+  - 905d00fb5243
   tool_panel_section_label: Phylogenetics
 - name: package_raxml_8_2_4
   owner: iuc
@@ -299,11 +307,13 @@ tools:
   tool_panel_section_label: Mapping
 - name: muscle
   owner: crs4
-  revisions: []
+  revisions:
+  - 533b3b2a1e66
   tool_panel_section_label: Multiple Alignments
 - name: clustalw
   owner: devteam
-  revisions: []
+  revisions:
+  - d6694932c5e0
   tool_panel_section_label: Multiple Alignments
 - name: phyml
   owner: iuc
@@ -312,7 +322,8 @@ tools:
   tool_panel_section_label: Phylogenetics
 - name: fastq_stats
   owner: devteam
-  revisions: []
+  revisions:
+  - f0e7deab6518
   tool_panel_section_label: FASTQ Quality Control
 - name: mummer_mummer
   owner: iuc
@@ -331,7 +342,8 @@ tools:
   tool_panel_section_label: Proteomics
 - name: diamond
   owner: bgruening
-  revisions: []
+  revisions:
+  - f921014aba5a
   tool_panel_section_label: NCBI Blast
 - name: kobas
   owner: iuc
@@ -340,11 +352,13 @@ tools:
   tool_panel_section_label: Annotation
 - name: centrifuge
   owner: jvolkening
-  revisions: []
+  revisions:
+  - be7bba8229c6
   tool_panel_section_label: NCBI Blast
 - name: data_manager_build_kraken2_database
   owner: iuc
-  revisions: []
+  revisions:
+  - 2f27f3b86827
   tool_panel_section_label: Assembly
 - name: data_manager_diamond_database_builder
   owner: bgruening
@@ -353,125 +367,146 @@ tools:
   tool_panel_section_label: Assembly
 - name: htseq_count
   owner: lparsons
-  revisions: []
+  revisions:
+  - 916cb26bd9d3
   tool_panel_section_label: RNA Analysis
 - name: deseq2
   owner: iuc
-  revisions: []
+  revisions:
+  - cd9874cb9019
   tool_panel_section_label: RNA Analysis
 - name: samtools_stats
   owner: devteam
-  revisions: []
+  revisions:
+  - 1cc79f49b8d5
   tool_panel_section_label: SAM/BAM
 - name: nanofilt
   owner: leomrtns
-  revisions: []
+  revisions:
+  - a2c318b04f49
   tool_panel_section_label: Nanopore
 - name: featurecounts
   owner: iuc
-  revisions: []
+  revisions:
+  - 38b6d12edc68
   tool_panel_section_label: RNA Analysis
 - name: ggplot2_heatmap2
   owner: iuc
-  revisions: []
+  revisions:
+  - ca7cb0eaad62
   tool_panel_section_label: Graph/Display Data
 - name: fastqtofasta
   owner: devteam
-  revisions: []
+  revisions:
+  - 297962e79f39
   tool_panel_section_label: FASTA/FASTQ
 - name: table_compute
   owner: iuc
-  revisions: []
+  revisions:
+  - 93a3ce78ce55
   tool_panel_section_label: Text Manipulation
-- name: qiime2_suite
-  owner: florianbegusch
-  revisions: []
-  tool_panel_section_label: Metagenomic Analysis
 - name: deg_annotate
   owner: iuc
-  revisions: []
+  revisions:
+  - e98d4ab5b5bc
   tool_panel_section_label: RNA Analysis
 - name: table_compute
   owner: iuc
-  revisions: []
+  revisions:
+  - 93a3ce78ce55
   tool_panel_section_label: Text Manipulation
 - name: goseq
   owner: iuc
-  revisions: []
+  revisions:
+  - ef2ad746b589
   tool_panel_section_label: Annotation
 - name: pathview
   owner: iuc
-  revisions: []
+  revisions:
+  - 03c13085aecc
   tool_panel_section_label: Graph/Display Data
 - name: velvet
   owner: devteam
-  revisions: []
+  revisions:
+  - 920677cd220f
   tool_panel_section_label: Assembly
 - name: collapse_collections
   owner: nml
-  revisions: []
+  revisions:
+  - 90981f86000f
   tool_panel_section_label: Join, Subtract and Group
 - name: ngsutils_bam_filter
   owner: iuc
-  revisions: []
+  revisions:
+  - 2e957d4c4b95
   tool_panel_section_label: SAM/BAM
 - name: bioext_bam2msa
   owner: iuc
-  revisions: []
+  revisions:
+  - 359e043a285c
   tool_panel_section_label: SAM/BAM
 - name: samtools_depth
   owner: iuc
-  revisions: []
+  revisions:
+  - 2ee8dc1aeda9
   tool_panel_section_label: SAM/BAM
 - name: ncbi_acc_download
   owner: iuc
-  revisions: []
+  revisions:
+  - 28587613264f
   tool_panel_section_label: Get Data
 - name: ggplot2_point
   owner: iuc
-  revisions: []
+  revisions:
+  - 1acf88921176
   tool_panel_section_label: Graph/Display Data
 - name: ivar_consensus
   owner: iuc
-  revisions: []
+  revisions:
+  - 731182d54f78
   tool_panel_section_label: Variant Calling
 - name: seq_filter_by_id
   owner: peterjc
-  revisions: []
+  revisions:
+  - 141612f8c3e3
   tool_panel_section_label: Filter and Sort
 - name: filter_tabular
   owner: iuc
-  revisions: []
+  revisions:
+  - 4d5aae46f850
   tool_panel_section_label: Text Manipulation
-- name: qiime2_suite
-  owner: florianbegusch
-  revisions: []
-  tool_panel_section_label: Metagenomic Analysis
 - name: funannotate_annotate
   owner: iuc
-  revisions: []
+  revisions:
+  - 14f588312c56
   tool_panel_section_label: Annotation
 - name: funannotate_predict
   owner: iuc
-  revisions: []
+  revisions:
+  - 2bba2ff070d9
   tool_panel_section_label: Annotation
 - name: funannotate_clean
   owner: iuc
-  revisions: []
+  revisions:
+  - a230ea445788
   tool_panel_section_label: Annotation
 - name: funannotate_compare
   owner: iuc
-  revisions: []
+  revisions:
+  - 563a19373357
   tool_panel_section_label: Annotation
 - name: funannotate_sort
   owner: iuc
-  revisions: []
+  revisions:
+  - b3cf4684e9c7
   tool_panel_section_label: Annotation
 - name: data_manager_funannotate
   owner: iuc
-  revisions: []
+  revisions:
+  - 0cadd0a04412
   tool_panel_section_label: Annotation
 - name: datamash_reverse
   owner: iuc
-  revisions: []
+  revisions:
+  - 0f1724dd59d2
   tool_panel_section_label: Statistics
