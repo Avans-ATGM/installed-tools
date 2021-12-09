@@ -186,12 +186,15 @@ tools:
   - name: trycycler_cluster
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
+    
   - name: trycycler_consensus
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
+    
   - name: trycycler_partition
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
+    
   - name: trycycler_reconcile_msa
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
@@ -199,7 +202,6 @@ tools:
   - name: trycycler_subsample
     owner: 'iuc'
     tool_panel_section_label: 'Assembly'
-
 
   - name: 'orthofinder_onlygroups'
     owner: 'iuc'
@@ -408,6 +410,7 @@ tools:
   - name: 'funannotate_sort'
     owner: 'iuc'
     tool_panel_section_label: 'Annotation'
+    
   # install the funannotate databases
   - name: 'data_manager_funannotate'
     owner: 'iuc'
