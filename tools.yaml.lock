@@ -224,6 +224,26 @@ tools:
   revisions:
   - 60573349e9ae
   tool_panel_section_label: Assembly
+- name: trycycler_cluster
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
+- name: trycycler_consensus
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
+- name: trycycler_partition
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
+- name: trycycler_reconcile_msa
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
+- name: trycycler_subsample
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
 - name: orthofinder_onlygroups
   owner: iuc
   revisions:
@@ -322,8 +342,136 @@ tools:
   owner: jvolkening
   revisions: []
   tool_panel_section_label: NCBI Blast
+- name: data_manager_build_kraken2_database
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Assembly
 - name: data_manager_diamond_database_builder
   owner: bgruening
   revisions:
   - 5558f74bd296
   tool_panel_section_label: Assembly
+- name: htseq_count
+  owner: lparsons
+  revisions: []
+  tool_panel_section_label: RNA Analysis
+- name: deseq2
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: RNA Analysis
+- name: samtools_stats
+  owner: devteam
+  revisions: []
+  tool_panel_section_label: SAM/BAM
+- name: nanofilt
+  owner: leomrtns
+  revisions: []
+  tool_panel_section_label: Nanopore
+- name: featurecounts
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: RNA Analysis
+- name: ggplot2_heatmap2
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Graph/Display Data
+- name: fastqtofasta
+  owner: devteam
+  revisions: []
+  tool_panel_section_label: FASTA/FASTQ
+- name: table_compute
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Text Manipulation
+- name: qiime2_suite
+  owner: florianbegusch
+  revisions: []
+  tool_panel_section_label: Metagenomic Analysis
+- name: deg_annotate
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: RNA Analysis
+- name: table_compute
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Text Manipulation
+- name: goseq
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: pathview
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Graph/Display Data
+- name: velvet
+  owner: devteam
+  revisions: []
+  tool_panel_section_label: Assembly
+- name: collapse_collections
+  owner: nml
+  revisions: []
+  tool_panel_section_label: Join, Subtract and Group
+- name: ngsutils_bam_filter
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: SAM/BAM
+- name: bioext_bam2msa
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: SAM/BAM
+- name: samtools_depth
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: SAM/BAM
+- name: ncbi_acc_download
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Get Data
+- name: ggplot2_point
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Graph/Display Data
+- name: ivar_consensus
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Variant Calling
+- name: seq_filter_by_id
+  owner: peterjc
+  revisions: []
+  tool_panel_section_label: Filter and Sort
+- name: filter_tabular
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Text Manipulation
+- name: qiime2_suite
+  owner: florianbegusch
+  revisions: []
+  tool_panel_section_label: Metagenomic Analysis
+- name: funannotate_annotate
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: funannotate_predict
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: funannotate_clean
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: funannotate_compare
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: funannotate_sort
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: data_manager_funannotate
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Annotation
+- name: datamash_reverse
+  owner: iuc
+  revisions: []
+  tool_panel_section_label: Statistics
