@@ -50,6 +50,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 7594365c546b
   - ebb0dcdb621a
   tool_panel_section_label: Assembly
 - name: taxonomy_krona_chart
@@ -97,6 +98,7 @@ tools:
 - name: circos
   owner: iuc
   revisions:
+  - 290a11559985
   - 7f13dc906cb9
   - df7356989ac1
   tool_panel_section_label: Graph/Display Data
@@ -113,6 +115,7 @@ tools:
 - name: bandage
   owner: iuc
   revisions:
+  - b9e31c5c01c7
   - d8b1027d6ce0
   tool_panel_section_label: Assembly
 - name: prokka
@@ -160,15 +163,11 @@ tools:
   revisions:
   - f03c7ba8d8bc
   tool_panel_section_label: NCBI Blast
-- name: taxonomy_krona_chart
-  owner: crs4
-  revisions:
-  - e9005d1f3cfd
-  tool_panel_section_label: Graph/Display Data
 - name: minimap2
   owner: iuc
   revisions:
   - 6b1e195506a3
+  - c0c2d0941de8
   tool_panel_section_label: Mapping
 - name: miniasm
   owner: iuc
@@ -264,21 +263,25 @@ tools:
   owner: iuc
   revisions:
   - 0ff17c7a18cd
+  - 3b974afde673
   tool_panel_section_label: Multiple Alignments
 - name: progressivemauve
   owner: iuc
   revisions:
   - 4d869208bd52
+  - ce795616bd9c
   tool_panel_section_label: Multiple Alignments
 - name: medaka_consensus
   owner: iuc
   revisions:
+  - b2aae698b9d3
   - fa11aa8103b2
   tool_panel_section_label: Assembly
 - name: raven
   owner: iuc
   revisions:
   - 3edba9afc9bc
+  - f11b994b7eb2
   tool_panel_section_label: Assembly
 - name: hmmer_hmmscan
   owner: iuc
@@ -304,6 +307,7 @@ tools:
   owner: iuc
   revisions:
   - 2595c27071c2
+  - 95ab864b281a
   tool_panel_section_label: Mapping
 - name: muscle
   owner: crs4
@@ -329,15 +333,18 @@ tools:
   owner: iuc
   revisions:
   - 48823c9635a4
+  - bcd65de9725b
   tool_panel_section_label: Multiple Alignments
 - name: proteinortho
   owner: iuc
   revisions:
   - 26abc7846e6f
+  - a8addd4fb60a
   tool_panel_section_label: Proteomics
 - name: proteinortho_summary
   owner: iuc
   revisions:
+  - a670bdbf8869
   - c3f58c2eee1e
   tool_panel_section_label: Proteomics
 - name: diamond
