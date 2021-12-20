@@ -404,3 +404,7 @@ tools:
   - name: 'datamash_reverse'
     owner: 'iuc'
     tool_panel_section_label: 'Statistics'
+   
+  - name: 'bwa'
+    owner: 'devteam'
+    tool_panel_section_label: 'multiple_alignments'
