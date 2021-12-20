@@ -237,26 +237,31 @@ tools:
 - name: trycycler_cluster
   owner: iuc
   revisions:
+  - 505a9833ab5d
   - ced385aa976d
   tool_panel_section_label: Assembly
 - name: trycycler_consensus
   owner: iuc
   revisions:
+  - 9ded6109434a
   - d40ed4eb0c0e
   tool_panel_section_label: Assembly
 - name: trycycler_partition
   owner: iuc
   revisions:
   - 6dd935e4984b
+  - b23249f81bc4
   tool_panel_section_label: Assembly
 - name: trycycler_reconcile_msa
   owner: iuc
   revisions:
+  - 59bd28f6265d
   - b5e35a2ca4f3
   tool_panel_section_label: Assembly
 - name: trycycler_subsample
   owner: iuc
   revisions:
+  - 05bd7504fdb2
   - 6015aa0303f2
   tool_panel_section_label: Assembly
 - name: orthofinder_onlygroups
