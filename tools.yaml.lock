@@ -522,3 +522,13 @@ tools:
   revisions:
   - 0f1724dd59d2
   tool_panel_section_label: Statistics
+- name: bwa
+  owner: devteam
+  revisions:
+  - 64f11cf59c6e
+  tool_panel_section_label: multiple_alignments
+- name: roary
+  owner: iuc
+  revisions:
+  - 91887494eb97
+  tool_panel_section_label: Annotation
