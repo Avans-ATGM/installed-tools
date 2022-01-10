@@ -41,6 +41,7 @@ tools:
   owner: iuc
   revisions:
   - 7518ee87b53d
+  - de387b2b2803
   tool_panel_section_label: Assembly
 - name: metaspades
   owner: nml
@@ -166,6 +167,7 @@ tools:
 - name: minimap2
   owner: iuc
   revisions:
+  - 11a0d50a54e6
   - 6b1e195506a3
   - c0c2d0941de8
   tool_panel_section_label: Mapping
@@ -344,11 +346,13 @@ tools:
   owner: iuc
   revisions:
   - 26abc7846e6f
+  - 9b99159b2b23
   - a8addd4fb60a
   tool_panel_section_label: Proteomics
 - name: proteinortho_summary
   owner: iuc
   revisions:
+  - 1883d2bffd14
   - a670bdbf8869
   - c3f58c2eee1e
   tool_panel_section_label: Proteomics
