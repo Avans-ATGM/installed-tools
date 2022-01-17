@@ -79,6 +79,7 @@ tools:
   revisions:
   - 0a5c785ac6db
   - 7ab85ac5f64b
+  - a68aa6c1204a
   - ce3c7f062223
   tool_panel_section_label: BED
 - name: text_processing
