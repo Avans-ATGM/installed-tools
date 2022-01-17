@@ -103,10 +103,6 @@ tools:
     owner: iuc
     tool_panel_section_label: 'Graph/Display Data'
 
-  - name: 'nanoplot'
-    owner: 'iuc'
-    tool_panel_section_label: 'FASTQ Quality Control'
-
   - name: 'filtlong'
     owner: 'iuc'
     tool_panel_section_label: 'FASTA/FASTQ'
