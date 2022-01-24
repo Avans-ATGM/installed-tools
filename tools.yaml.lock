@@ -135,11 +135,6 @@ tools:
   revisions:
   - a6e57ff585c0
   tool_panel_section_label: Graph/Display Data
-- name: nanoplot
-  owner: iuc
-  revisions:
-  - edbb6c5028f5
-  tool_panel_section_label: FASTQ Quality Control
 - name: filtlong
   owner: iuc
   revisions:
