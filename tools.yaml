@@ -409,3 +409,7 @@ tools:
     owner: 'iuc'
     tool_panel_section_label: 'Annotation'
     
+  - name: 'datamash_ops'
+    owner: 'iuc'
+    tool_panel_section_label: 'Annotation'
+    
