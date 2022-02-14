@@ -40,6 +40,7 @@ tools:
 - name: megahit
   owner: iuc
   revisions:
+  - 14ddfc8ffb93
   - 7518ee87b53d
   - de387b2b2803
   tool_panel_section_label: Assembly
