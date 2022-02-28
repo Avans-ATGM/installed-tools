@@ -141,6 +141,7 @@ tools:
 - name: filtlong
   owner: iuc
   revisions:
+  - 41b2ad601cf0
   - a72af9de6bf5
   tool_panel_section_label: FASTA/FASTQ
 - name: unicycler
@@ -183,6 +184,7 @@ tools:
 - name: porechop
   owner: iuc
   revisions:
+  - 543cbeef3949
   - 5f76b20953e5
   tool_panel_section_label: Nanopore
 - name: racon
