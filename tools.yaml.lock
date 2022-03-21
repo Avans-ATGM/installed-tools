@@ -18,6 +18,7 @@ tools:
   owner: iuc
   revisions:
   - 02befcb391f5
+  - 1ee282794de3
   - 654b3a274ed5
   tool_panel_section_label: FASTQ Quality Control
 - name: trim_galore
@@ -289,6 +290,7 @@ tools:
 - name: raven
   owner: iuc
   revisions:
+  - 2b2a352488fa
   - 3edba9afc9bc
   - f11b994b7eb2
   tool_panel_section_label: Assembly
