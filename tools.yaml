@@ -413,3 +413,46 @@ tools:
     owner: 'iuc'
     tool_panel_section_label: 'Annotation'
     
+  - name: 'datamash_ops'
+    owner: 'iuc'
+    tool_panel_section_label: 'Annotation'
+    
+  - name: 'samtools_view'
+    owner: 'iuc'
+    tool_panel_section_label: 'SAM/BAM'
+    
+  - name: 'picard'
+    owner: 'devteam'
+    tool_panel_section_label: 'SAM/BAM'
+    
+  - name: 'lofreq_viterbi'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'lofreq_filter'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+   
+  - name: 'lofreq_call'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'lofreq_filter'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'lofreq_indelqual'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'lofreq_alnqual'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'snpeff_sars_cov_2'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
+    
+  - name: 'snpsift'
+    owner: 'iuc'
+    tool_panel_section_label: 'Variant Calling'
