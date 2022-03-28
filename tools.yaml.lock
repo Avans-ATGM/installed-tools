@@ -53,6 +53,7 @@ tools:
 - name: quast
   owner: iuc
   revisions:
+  - 675488238c96
   - 7594365c546b
   - 875d0f36d66f
   - ebb0dcdb621a
@@ -545,3 +546,58 @@ tools:
   revisions:
   - 562f3c677828
   tool_panel_section_label: Annotation
+- name: datamash_ops
+  owner: iuc
+  revisions:
+  - 562f3c677828
+  tool_panel_section_label: Annotation
+- name: samtools_view
+  owner: iuc
+  revisions:
+  - 0dbf49c414ae
+  tool_panel_section_label: SAM/BAM
+- name: picard
+  owner: devteam
+  revisions:
+  - 1aac2a13842a
+  tool_panel_section_label: SAM/BAM
+- name: lofreq_viterbi
+  owner: iuc
+  revisions:
+  - aa35ee7f3ab2
+  tool_panel_section_label: Variant Calling
+- name: lofreq_filter
+  owner: iuc
+  revisions:
+  - 7dfca164d2e3
+  tool_panel_section_label: Variant Calling
+- name: lofreq_call
+  owner: iuc
+  revisions:
+  - e1461b5c52a0
+  tool_panel_section_label: Variant Calling
+- name: lofreq_filter
+  owner: iuc
+  revisions:
+  - 7dfca164d2e3
+  tool_panel_section_label: Variant Calling
+- name: lofreq_indelqual
+  owner: iuc
+  revisions:
+  - 426d707dfc47
+  tool_panel_section_label: Variant Calling
+- name: lofreq_alnqual
+  owner: iuc
+  revisions:
+  - 09d6e4693887
+  tool_panel_section_label: Variant Calling
+- name: snpeff_sars_cov_2
+  owner: iuc
+  revisions:
+  - 2a3a00c1fa0a
+  tool_panel_section_label: Variant Calling
+- name: snpsift
+  owner: iuc
+  revisions:
+  - 5fab4f81391d
+  tool_panel_section_label: Variant Calling
