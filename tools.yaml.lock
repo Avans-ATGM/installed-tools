@@ -218,6 +218,7 @@ tools:
 - name: busco
   owner: iuc
   revisions:
+  - 41030a6c03b7
   - 46ae58b1d792
   tool_panel_section_label: Annotation
 - name: augustus
@@ -446,6 +447,7 @@ tools:
   owner: iuc
   revisions:
   - 03c13085aecc
+  - fe154a7af404
   tool_panel_section_label: Graph/Display Data
 - name: velvet
   owner: devteam
@@ -531,6 +533,7 @@ tools:
   owner: iuc
   revisions:
   - 0f1724dd59d2
+  - 17e3b698dd52
   tool_panel_section_label: Statistics
 - name: bwa
   owner: devteam
@@ -545,11 +548,13 @@ tools:
 - name: datamash_ops
   owner: iuc
   revisions:
+  - 419027d822d6
   - 562f3c677828
   tool_panel_section_label: Annotation
 - name: datamash_ops
   owner: iuc
   revisions:
+  - 419027d822d6
   - 562f3c677828
   tool_panel_section_label: Annotation
 - name: samtools_view
